@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "title": "Você sabia?",
-    "description": "Mulheres colecionam conquistas históricas no futebol; veja oito delas neste 8 de março.",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/1.jpg",
-    "link": "https://ge.globo.com/pe/futebol/noticia/2022/03/08/voce-sabia-mulheres-colecionam-conquistas-historicas-no-futebol-veja-oito-delas-neste-8-de-marco.ghtml"
+    "title": "Jogadora do mês",
+    "description": "Duda é eleita a jogadora do mês pela segunda vez consecutiva",
+    "image": "https://media.internacional.groundsportech.com/wp-content/uploads/2022/07/12151908/52211848776_5e75efb14d_o-1152x768.jpg",
+    "link": "https://internacional.com.br/noticias/duda-e-eleita-a-jogadora-do-mes-pela-segunda-vez-consecutiva"
   },
   {
     "id": 2,
